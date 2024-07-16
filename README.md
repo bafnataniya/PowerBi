@@ -4,8 +4,6 @@
 Instructions to setup mysql on your local computer
 Follow step in this video to install mysql on your local computer https://www.youtube.com/watch?v=WuBcTJnIuzo
 
- Dashboard link:https://app.powerbi.com/groups/me/reports/0d078a13-682a-4355-b260-9a84400364be/992fe1a7660d30037ccd?experience=power-bi
-
 SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it as per instructions given in the tutorial video
 
 Data Analysis Using SQL
